@@ -11,7 +11,7 @@ public class Calender {
 		int y;
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("반복 횟수를 입력해주세요.");
+		System.out.println("반복 횟수를 입력해주세요");
 		number = sc.nextInt();
 		
 		while(number > 0)
